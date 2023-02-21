@@ -1,0 +1,37 @@
+[33mcommit 535c6c61a7a4233b5b0f251ccd040edcf97134ce[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Guishifang <3519793075@qq.com>
+Date:   Tue Feb 21 19:34:57 2023 +0800
+
+    commit src
+
+[33mcommit c1f05fb34da90546c03c198c3ebf7d4c57fe38d8[m
+Author: Guishifang <3519793075@qq.com>
+Date:   Tue Feb 21 19:34:41 2023 +0800
+
+    commit txt
+
+[33mcommit a260a5691a7a52ddbec25d449649dbc4475c63bf[m
+Author: Guishifang <3519793075@qq.com>
+Date:   Tue Feb 21 19:34:03 2023 +0800
+
+    commit py
+
+[33mcommit 6ffb588b7ddf77acb2a20318d648bab2c1a0ad1f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Guishifang <59997978+3519793075@users.noreply.github.com>
+Date:   Tue Feb 21 19:27:12 2023 +0800
+
+    Delete 数据处理.py
+
+[33mcommit 58ca6de19845b976ac3c513e777770302e298b11[m
+Author: 3519793075 <59997978+3519793075@users.noreply.github.com>
+Date:   Tue Feb 21 17:24:39 2023 +0800
+
+    数据处理
+    
+    对最初的数据进行清洗和处理
+
+[33mcommit 8b8684ba28c6bb1b44703549988be74429b55f6b[m
+Author: 3519793075 <59997978+3519793075@users.noreply.github.com>
+Date:   Tue Feb 21 17:11:02 2023 +0800
+
+    Initial commit
